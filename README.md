@@ -22,4 +22,4 @@ This repository contains my work for Homework 1. In this assignment, I used a co
 - update README with video link
 
 ## Video Link
-(To be added after recording the walkthrough video)
+https://youtu.be/-FzHeNNJv4k
